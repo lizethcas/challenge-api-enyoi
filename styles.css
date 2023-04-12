@@ -1,0 +1,30 @@
+.container {
+    margin: 25PX auto;
+    display: flex;
+    gap: 10px;
+    max-width: 1200px;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h3{
+    margin: 0;
+}
+H1 {
+    text-align: center;
+    margin: 0;
+}
+
+.pokemon__card{
+    border: solid black;
+    border-radius: 8px;
+    width: 25%;
+    text-align: center;
+    padding: 10px;
+}
+
+
+img {
+    width: 200px;
+}
